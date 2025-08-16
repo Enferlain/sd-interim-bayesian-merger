@@ -1,3 +1,5 @@
+## I spun the fork into its own repo, same url as before, so ['sd-optim'](https://github.com/Enferlain/sd-optim) just without the 'fork'. Reasoning is, the code is a lot different than the original repo was at this point, and I want to be able to see commits I do here appear on my profile. The spirit of the original bayesian merger will continue as best as I can stick to it.
+
 # sd-optim: State Dictionary Optimization Framework
 
 An opinionated framework for optimizing operations on state dictionaries, particularly focused on Stable Diffusion model merging, leveraging Bayesian Optimization or Optuna and the [`sd-mecha`](https://github.com/ljleb/sd-mecha) library.
